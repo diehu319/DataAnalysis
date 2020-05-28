@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "DataAnalysis",
+			"path": "DataAnalysis"
+		}
+	],
+	"settings": {
+		"git.autofetch": true
+	}
+}
